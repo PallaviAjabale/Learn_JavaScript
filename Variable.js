@@ -22,3 +22,6 @@ console.log(typeof(f));
 
 let g=false;
 console.log("g",typeof(g));
+
+let m = True;
+console.log("m",typeof(m));
